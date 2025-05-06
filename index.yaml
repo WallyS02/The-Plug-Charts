@@ -3,12 +3,12 @@ entries:
   the-plug:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-05-06T14:47:56.835434162+02:00"
+    created: "2025-05-06T15:22:47.816898019+02:00"
     description: A Helm chart for The Plug application
-    digest: 2723394490e87943984cfcfb686892263f05f79bea103ab1d48822ef8af14e0b
+    digest: 3a1f86c8e4bff6e5a99be3fe041cdb9aa6f54bea18795a7c54decb6961cfe164
     name: the-plug
     type: application
     urls:
-    - https://wallys02.github.io/The-Plug-Charts/the-plug-0.0.2.tgz
+    - https://wallys02.github.io/The-Plug-Charts/the-plug-0.0.3.tgz
     version: 0.0.1
-generated: "2025-05-06T14:47:56.835190732+02:00"
+generated: "2025-05-06T15:22:47.81664362+02:00"
